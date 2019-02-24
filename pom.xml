@@ -68,7 +68,7 @@
         <module>agent-it</module>
         <module>bootstrap</module>
         <module>bootstrap-core</module>
-        <module>bootstrap-java7</module>
+        
         <module>bootstrap-java8</module>
         <module>bootstrap-java9</module>
         <module>collector</module>
